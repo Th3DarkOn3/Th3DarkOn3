@@ -1,6 +1,6 @@
 ## Hi, I'm Matteo ✨
 
-🎓 Engineer in Networks, IoT & Robotics | 💻 Passionate about Python, JS, and system administration <br/>
+🎓 Engineer in Networks, IoT & DevOps | 💻 Passionate about Python, JS, and system administration <br/>
 🔌 Skilled in virtualization, cybersecurity, and network engineering (Windows/Linux) <br/>
 🌍 Trilingual: Italian 🇮🇹 | French 🇫🇷 | English us <br/>
 🤝 Team player with a creative mind, always up for solving complex problems <br/>
